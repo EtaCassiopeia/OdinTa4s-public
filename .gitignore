@@ -1,0 +1,8 @@
+target/
+.idea/
+.bsp/
+
+Test.scala
+bot.md
+
+*.pine
